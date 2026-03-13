@@ -42,4 +42,4 @@
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/alessandro-aprile)
 
 <br/>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexthePredator&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="AlexthePredator" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexAprile&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="AlexAprile" /></p>
