@@ -3,7 +3,7 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&pause=1000&color=33FF33&vCenter=true&random=false&width=600&lines=Hi+I'm+Alex,+this+is+my+Github.)
 <!-- thanks and credit to: https://github.com/DenverCoder1 -->
 
-- 🔭 I’m studying Computer Science at Università degli Studi di Salerno at Fisciano (SA). [<img src="https://github.com/AlexthePredator/AlexthePredator/assets/104070975/73188b2a-87ec-402f-b59c-c879d96a2b5c" width="35" height="35"/>](https://www.unisa.it/)
+- 🔭 I’m studying Data Science and Machine Learning Computer Science at Università degli Studi di Salerno at Fisciano (SA). [<img src="https://github.com/AlexthePredator/AlexthePredator/assets/104070975/73188b2a-87ec-402f-b59c-c879d96a2b5c" width="35" height="35"/>](https://www.unisa.it/)
 
 - 🌱 I’m currently learning some stuff.
 
@@ -36,6 +36,7 @@
 <div>
      <h3 class="section-heading">🔭 In the future:</h3>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/flutter-0000?style=for-the-badge&color=%232777d8&logo=flutter&logoColor=white" alt="flutter" />
 </div>
 
 ## About Me 🙋
