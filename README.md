@@ -1,11 +1,19 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&pause=1000&color=33FF33&vCenter=true&random=false&width=600&lines=Hi+I'm+Alex,+this+is+my+Github.)
 <!-- thanks and credit to: https://github.com/DenverCoder1 -->
 
-🔬 I’m studying **Data Science and Machine Learning Computer Science** at *Università degli Studi di Salerno* at Fisciano (SA), Italy. [<img src="https://github.com/AlexthePredator/AlexthePredator/assets/104070975/73188b2a-87ec-402f-b59c-c879d96a2b5c" width="40" height="40"/>](https://www.unisa.it/)
+### 🔬 Master's Degree Student in Data Science and Machine Learning at Università degli Studi di Salerno at Fisciano (SA), Italy.  [<img src="https://github.com/AlexthePredator/AlexthePredator/assets/104070975/73188b2a-87ec-402f-b59c-c879d96a2b5c" width="50" height="50"/>](https://www.unisa.it/)
+
+<!--
+<h3> 🔬 Master's Degree Student in Data Science and Machine Learning at Università degli Studi di Salerno at Fisciano (SA), Italy. <a href="https://www.unisa.it/"><img src="https://github.com/AlexthePredator/AlexthePredator/assets/104070975/73188b2a-87ec-402f-b59c-c879d96a2b5c" width="50" height="50"/></a></h3> -->
+
 
 # 🙋‍♂️ About Me
 - 🎓 Computer Science Graduate.
-- 👾 Gamer
+- 📱 Passionate Software & Mobile Developer.
+- 👾 Passionate gamer.
+- 💻 Tech enthusiast.
+- 🚀 Always learning, exploring new tech, and building projects.
+- 🏋️ Fitness & weight training enthusiast
 
 
 # 💻 Tech Stack:
@@ -29,7 +37,11 @@
 
 </div>
 
-## 🌱 I'm currently learning:
+## 🌱 I'm currently learning and improving:
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
+[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org/)
+
 
 <div>
      <h3 class="section-heading">🔭 In the future:</h3>
