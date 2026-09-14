@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&pause=1000&color=33FF33&vCenter=true&random=false&width=600&lines=Hi+I'm+Alex,+this+is+my+Github.)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=45&duration=3000&pause=1000&color=33FF33&vCenter=true&random=false&width=600&lines=Hi+I'm+Alex,+this+is+my+Github.)
 <!-- thanks and credit to: https://github.com/DenverCoder1 -->
 
 ### 🔬 Master's Degree Student in Data Science and Machine Learning at Università degli Studi di Salerno at Fisciano (SA), Italy.  [<img src="https://github.com/AlexthePredator/AlexthePredator/assets/104070975/73188b2a-87ec-402f-b59c-c879d96a2b5c" width="50" height="50"/>](https://www.unisa.it/)
