@@ -49,8 +49,6 @@
 </div>
 
 
-
-
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandro-aprile)
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandroapriled@gmail.com) 
@@ -59,12 +57,12 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=AlexAprile&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="" />
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AlexAprile&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs"/>
+    <img src="https://github-readme-stats.shion.dev/api?username=AlexAprile&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AlexAprile&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs"/>
  <!-- <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=AlexAprile&theme=radical&hide_border=false" alt="GitHub Streak" />
   </a> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexAprile&theme=radical" alt="Linguaggi di AlexAprile" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexAprile&theme=highcontrast" alt="Linguaggi di AlexAprile" />
 </div>
 
 <br>
